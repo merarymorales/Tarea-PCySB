@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* Datos CSS */
+.flexbox{
+	display: flex;
+	border: #969696;
+	background-color: powderblue;
+	padding: 10px;
+	width: 57%;
+}
+#rosado{
+	padding: 20px;
+	margin: 10px;
+	background-color: pink;
+}
+#celeste{
+	padding: 20px;
+	margin: 10px;
+	background-color: #81C5F7;
+}
+#morado{
+	padding: 20px;
+	margin: 10px;
+	background-color: purple;
+}
+#rojo{
+	padding: 20px;
+	margin: 10px;
+	background-color: palevioletred;		
+}
+#blanco{
+	padding: 20px;
+	margin: 10px;
+	background-color: white;		
+}
+#Adela{
+	padding: 20px;
+	margin: 10px;
+	background-color: white;
+}
+#Debora{
+	padding: 20px;
+	margin: 10px;
+	background-color: skyblue;
+}
+#Bianca{
+	padding: 20px;
+	margin: 10px;
+	background-color: pink;
+}
+#Genesis{
+	padding: 20px;
+	margin: 10px;
+	background-color: aqua;
+}
+#Elisa{
+	padding: 20px;
+	margin: 10px;
+	background-color: yellow;
+}
+

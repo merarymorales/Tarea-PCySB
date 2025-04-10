@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* Entretenimiento CSS */
+.flexbox{
+	align-content: center;
+	display: flex;
+	border: 0px solid blue;
+	background-color: #A1FFC6;
+	padding: 20px;
+	width: 90%;
+}
+#celeste{
+	padding: 50px;
+	margin: 15px;
+	background-color: skyblue;
+	align-content: center;
+}
+#rosado{
+	padding: 50px;
+	margin: 15px;
+	background-color: pink;
+	align-content: center;
+}
+#celeste{
+	padding: 50px;
+	margin: 15px;
+	background-color: skyblue;
+	align-content: center;
+}
+#rosado{
+	padding: 50px;
+	margin: 15px;
+	background-color: pink;
+	align-content: center;
+}
+#morado{
+	padding: 50px;
+	margin: 15px;
+	background-color: mediumpurple;
+	align-content: center;
+}
+
